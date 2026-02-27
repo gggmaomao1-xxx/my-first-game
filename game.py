@@ -22,3 +22,4 @@ def guess_game():
 
 if __name__ == "__main__":
     guess_game()
+input("エンターキーを押すと終了します...")
